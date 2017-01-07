@@ -1,0 +1,18 @@
+{
+  "name": "npm-telegram-bot",
+  "version": "0.0.1",
+  "description": "🕵️ Telegram bot to search for npm package 🔍🙌",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "github": "^7.3.1",
+    "github-url-to-object": "^2.2.6",
+    "node-telegram-bot-api": "^0.25.0",
+    "request": "^2.79.0"
+  }
+}
